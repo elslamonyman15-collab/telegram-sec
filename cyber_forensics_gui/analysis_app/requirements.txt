@@ -1,0 +1,5 @@
+# Cyber Forensics Report Analyzer - Python Dependencies
+# Minimal dependencies for user-friendly analysis tool
+
+# No external dependencies required - uses only Python standard library
+# The analyzer is designed to work with Python 3.7+ standard library only
